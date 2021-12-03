@@ -23,7 +23,7 @@
     <tr>
         <td>
             <asp:TextBox ID="txtCounter1" Width="150px" Font-Size="Large" runat="server"
-                            BackColor="#000099" ForeColor="White">
+                            BackColor="#000099" ForeColor="White" >
             </asp:TextBox>
         </td>
         <td>
